@@ -4,10 +4,19 @@
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
+		"Dictionaries",
+		"DocBlockr",
+		"Emmet",
+		"Git",
 		"GitGutter",
 		"Package Control",
 		"Predawn",
 		"RubyMotionBuilder",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeCodeIntel",
 		"Vintageous"
 	]
 }
